@@ -1,6 +1,6 @@
 ### Greetings 👋, I'm Vitor Fernandes!
 
-<a href='https://www.linkedin.com/in/vitor-fernandes-55b26319a/' target="_blank"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/VitorFernandes2/VitorFernandes2/f7dd0a4743264b5d37f174644681bad1623e7310/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/vitor-h-fernandes/' target="_blank"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/VitorFernandes2/VitorFernandes2/f7dd0a4743264b5d37f174644681bad1623e7310/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/Vitor_h_2' target="_blank"><img align='left' alt="twitter" src="https://raw.githubusercontent.com/VitorFernandes2/VitorFernandes2/f7dd0a4743264b5d37f174644681bad1623e7310/twitter.svg" height='18px'/></a>
 
 <br/>
