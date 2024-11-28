@@ -7,7 +7,7 @@
 
 ## 👨🏻‍💻 Who am I?
 
-- 🔨 I'm a Software Developer working at <a href="https://www.wit-software.com/" target="_blank">WIT Software</a>
+- 🔨 I'm a Software Developer working at <a href="https://www.blip.pt/" target="_blank">Blip.pt</a>
 - 📚 I'm currently taking my master degree at <a href="https://www.isec.pt/PT/Default.aspx" target="_blank">ISEC</a>
 - ⚡️ Passionate about new techs 
 - 🚀 Always ready to create awesome stuff 
